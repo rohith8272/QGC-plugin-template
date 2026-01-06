@@ -13,6 +13,7 @@ A short tutorial on setting up a custom widget can be found [here]./posts/qgc-de
 
 More details on what a custom build is and how to create your own can be found in the [QGC Dev Guide](https://dev.qgroundcontrol.com/en/custom_build/custom_build.html).
 
+## Example widgets 
 
 **CustomParameterWidget**
 Access the vehicle specific parameters and log it to the console.
