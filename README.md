@@ -9,7 +9,7 @@ To build this custom plugin:
 
 ![Custom Build Screenshot](UI.png)
 
-A short tutorial on setting up a custom widget can be found [here]./posts/qgc-development-tutorial/
+A short tutorial on setting up a custom widget [(https://rohith8272.github.io/posts/qgc-development-tutorial/)]
 
 More details on what a custom build is and how to create your own can be found in the [QGC Dev Guide](https://dev.qgroundcontrol.com/en/custom_build/custom_build.html).
 
